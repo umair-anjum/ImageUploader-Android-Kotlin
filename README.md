@@ -14,12 +14,13 @@ The Project store images to the {images} folder in the server storage not in the
 
 ## Contributions 
 Contributions, issues and feature requests are welcome.
-Feel free to check [issues]({Link} "issues") page if you want to contribute.
+Feel free to check [issues](https://github.com/UmairAnjum86/ImageUploader-Android-Kotlin/issues "issues") page if you want to contribute.
 
 ## About Me
 My name is Umair Anjum, I am Software Engineer at TECHZO Solution Pakistan. I have expertise in Native Android | React - Native| Android | Java | Kotlin | Javascript | MVVM | MVP | RxJava | Dagger | Material Design | Live Data | Data Binding.
 
 - Github : [Umair Anjum ](https://github.com/UmairAnjum86 "Umair Anjum")
 - Facebook : [Umair Anjum](facebook.com/umair.anjum.357/ "Umair Anjum")
+
 
 
