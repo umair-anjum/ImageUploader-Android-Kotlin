@@ -1,6 +1,6 @@
 # ImageUploader-Android-Kotlin-Retrofit-MySQL
 
-The Project store images to the {images} folder in the server storage not in the database. The Api is design in such an efficent way so that the images are stored seperate and their path is stores in the database table.
+The Project store images to the {images} folder on the local storage. The Api is design in such an efficent way so that the images path's are stored in the database table.
 
 ## How to use
 - Clone this project
