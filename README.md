@@ -3,7 +3,7 @@
 The Project store images to the {images} folder in the server storage not in the database. The Api is design in such an efficent way so that the images are stored seperate and their path is stores in the database table.
 
 ## How to use
-- Clone the project
+- Clone this project
 - Copy {imageUploader} Api folder to your wamp server {www} folder 
 - Open the project and tap on camera icon to select image from the device
 - Click on upload button then the loading bar shows the progress
