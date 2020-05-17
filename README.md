@@ -5,6 +5,7 @@ The Project store images to the {images} folder on the local storage. The Api is
 ## How to use
 - Clone this project
 - Copy {imageUploader} Api folder to your wamp server {www} folder 
+- Create a database named {imageuploader} and import the SQL file from the database folder. 
 - Open the project and tap on camera icon to select image from the device
 - Click on upload button then the loading bar shows the progress
 - After upload a success message would be shown
